@@ -1,0 +1,62 @@
+body{
+  font-family:fantasy;
+  text-align: center;
+  color:cornflowerblue;
+  background-image: url("purple pattern.jfif")
+  }
+   button{
+    font-family:fantasy;
+    font-size: medium;
+    background: transparent;
+    border: black;
+  }
+#icecream{
+  position:absolute;
+  right: 555px;
+  bottom: 150px;
+  width: 250px;
+  height: 250px
+}
+#chocolate{
+  width:150px;
+  height:100px;
+  position: absolute;
+  bottom: 360px;
+  right: 605px;
+}
+#vanilla{
+  width:160px;
+  height:100px;
+  position: absolute;
+  bottom: 360px;
+  right: 597px;
+}
+#strawberry{
+  width:155px;
+  height:100px;
+  position: absolute;
+  bottom: 360px;
+  right: 604px;
+}
+#sprinkles{
+  width:100px;
+  height: 75px;
+  position: absolute;
+  bottom: 370px;
+  right: 630px
+}
+#cherry{
+  width: 75px;
+  position: absolute;
+  bottom: 430px;
+  right: 640px;
+}
+#btnchoc{
+  color:saddlebrown;
+}
+#btnrestart{
+  position:relative;
+  bottom: -600px;
+  background:black;
+  color: lavender
+}
